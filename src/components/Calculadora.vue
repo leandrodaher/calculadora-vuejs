@@ -209,4 +209,13 @@ export default {
 .content-buttons {
   width: 100%;
 }
+
+@media (max-width: 520px) 
+{
+  .calc 
+   {
+    width: 100%;
+    height: 100%;
+   }
+}
 </style>
