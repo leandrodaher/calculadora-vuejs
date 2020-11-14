@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Calculadora VueJS
+=======
+# Calculadora Vuejs
+>>>>>>> ccf24b35a3a089afe06a1ccd032d155fe7eda16e
 Projeto prático para estudar os conceitos do VueJS.
 
 ## Project setup
