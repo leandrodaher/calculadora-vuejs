@@ -1,4 +1,5 @@
-# testes
+# Calculadora Vuejs
+Projeto prático para estudar os conceitos do VueJS.
 
 ## Project setup
 ```
